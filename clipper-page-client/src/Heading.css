@@ -1,0 +1,33 @@
+.navbar {
+    background-color: rgb(60, 60, 234);
+    border-bottom: 2em;
+    border-color: white;
+    margin-bottom: 20em;
+}
+
+.navbar-branding {
+    color: white;
+}
+
+.navbar-branding:hover {
+    color: white;
+}
+
+.navbar-logo {
+    height: 50px;
+    width: 50px;
+}
+
+.navbar-link {
+    color: white;
+}
+
+.navbar-link:hover {
+    color: black;
+}
+
+.navbar-text {
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+}
